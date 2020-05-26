@@ -33,7 +33,8 @@ pyplot.show()
 #histogram of the variable
 dataset.hist() 
 pyplot.show
-#multivariate plots scatter_matrix(dataset)
+#multivariate plots 
+scatter_matrix(dataset)
 pyplot.show()
 #creating a validation dataset
 #splitting dataset
